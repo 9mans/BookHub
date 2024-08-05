@@ -1,10 +1,10 @@
 <h1>온라인도서 판매 웹애플리케이션 BookHub 입니다. </h1>
 중앙 HTA 아카데미에서 진행한 파이널프로젝트 입니다.
 
-<h3>프로젝트명</h3>: BookHub<br>
-<h3>참여인원</h3>: 6명<br>
-<h3>사용 기술</h3>: Java, JS, MySQL, Mybatis, Spring Boot, thymeleaf, AWS EC2, AWS RDS<br>
-<h3>프로젝트 기간</h3>: 2024.04.08 ~ 2024.05.16<br>
+<h3>프로젝트명</h3>: BookHub
+<h3>참여인원</h3>: 6명
+<h3>사용 기술</h3>: Java, JS, MySQL, Mybatis, Spring Boot, thymeleaf, AWS EC2, AWS RDS
+<h3>프로젝트 기간</h3>: 2024.04.08 ~ 2024.05.16
 
 **담당역할 및 기능개발**
 ---
