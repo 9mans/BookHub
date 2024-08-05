@@ -2,9 +2,9 @@
 중앙 HTA 아카데미에서 진행한 파이널프로젝트 입니다.
 
 프로젝트명: BookHub<br>
-참여인원: 6명<br>
-사용 기술: Java, JS, MySQL, Mybatis, Spring Boot, thymeleaf, AWS EC2, AWS RDS<br>
-프로젝트 기간: 2024.04.08 ~ 2024.05.16<br>
+참여인원:  6명<br>
+사용 기술:  Java, JS, MySQL, Mybatis, Spring Boot, thymeleaf, AWS EC2, AWS RDS<br>
+프로젝트 기간:  2024.04.08 ~ 2024.05.16<br>
 
 **담당역할 및 기능개발**
 ---
