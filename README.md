@@ -20,7 +20,7 @@
 ---
 <br>
 <h3>- AWS EC2 인스턴스와 Jenkins를 활용한 CI/CD 파이프 라인 구축</h3><br>
-<h3>- AWS EC2 인스턴스를 사용한 배포 시 메모리 부족 현상을 방지하기 위한 설정
+<h3>- AWS EC2 인스턴스를 사용한 배포 시 메모리 부족 현상을 방지하기 위한 설정</h3>
   AWS EC2 프리티어 인스턴스 사용으로 인한 메모리 부족 현상을 방지하기 위해<br>
   swap 메모리 2gb 추가, gradle daemon의 비활성화 jvm 메모리 옵션을 조정<br>
   DB server를 분리하기 위해 AWS RDS를 사용하여 DB Server 구축
