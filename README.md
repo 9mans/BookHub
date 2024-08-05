@@ -1,10 +1,10 @@
 <h1>온라인도서 판매 웹애플리케이션 BookHub 입니다. </h1>
 중앙 HTA 아카데미에서 진행한 파이널프로젝트 입니다.
 
-프로젝트명: BookHub
-참여인원: 6명
-사용 기술: Java, JS, MySQL, Mybatis, Spring Boot, thymeleaf, AWS EC2, AWS RDS
-프로젝트 기간: 2024.04.08 ~ 2024.05.16
+<h3>프로젝트명</h3>: BookHub<br>
+<h3>참여인원</h3>: 6명<br>
+<h3>사용 기술</h3>: Java, JS, MySQL, Mybatis, Spring Boot, thymeleaf, AWS EC2, AWS RDS<br>
+<h3>프로젝트 기간</h3>: 2024.04.08 ~ 2024.05.16<br>
 
 **담당역할 및 기능개발**
 ---
@@ -18,6 +18,7 @@
 
 **중요포인트와 개선사항**<br>
 ---
+<br>
 <h3>- AWS EC2 인스턴스와 Jenkins를 활용한 CI/CD 파이프 라인 구축</h3><br>
 <h3>- Database의 부하 분산을 위한 이중화 설정  </h3><br>
 <h3>- CS센터의 FAQ 목록 캐싱처리 </h3><br>
