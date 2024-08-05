@@ -21,9 +21,11 @@
 <br>
 <h3>- AWS EC2 인스턴스와 Jenkins를 활용한 CI/CD 파이프 라인 구축</h3><br>
 <h3>- AWS EC2 인스턴스를 사용한 배포 시 메모리 부족 현상을 방지하기 위한 설정</h3>
-      ㅇ swap 메모리 2gb 추가, gradle daemon의 비활성화, jvm 메모리 옵션조정
+      ㅇ swap 메모리 2gb 추가, gradle daemon의 비활성화, jvm 메모리 옵션조정<br>
       ㅇ DB server 분리 AWS RDS를 이용하여 DB 구축
 <h3>- Database의 부하 분산을 위한 이중화 설정  </h3><br>
+      ㅇ 데이터 누적으로 발생화는 DB의 부하를 분산 시키기 위해 읽기 작업만을위한<br>
+      slave DB 생성, master DB에 장애 발생시 승격하여 지속적인 서비스 제공 가능 
 <h3>- CS센터의 FAQ 목록 캐싱처리 </h3><br>
 <h3>- DTO 클래스를 활용한 반복작업 감소와 유지보수에 용이한 코딩</h3><br>
 <h3>- jasypt를 활용한 중요정보 암호화 처리</h3><br>
