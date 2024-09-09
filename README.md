@@ -8,7 +8,7 @@
 
 **담당역할 및 기능개발**
 ---
-/src/main/bookhub/board package
+src/main/java/com/example/bookhub/board package
 + AWS RDS를 이용한 DB 구축
 + CS센터
 + 커뮤니티 게시판
